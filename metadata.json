@@ -1,0 +1,6 @@
+{
+  "name": "Islam Modern",
+  "description": "Aplikasi pendamping Muslim modern dengan jadwal salat real-time otomatis, artikel dakwah terorganisir, pencarian hadis lengkap, dan penyesuaian profil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
